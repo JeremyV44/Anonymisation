@@ -1,0 +1,2 @@
+output_folder: essai_2
+nombre_samples: 10
