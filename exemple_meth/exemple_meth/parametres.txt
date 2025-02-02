@@ -1,0 +1,2 @@
+output_folder: analysis_anonym_meth
+nombre_samples: 10
